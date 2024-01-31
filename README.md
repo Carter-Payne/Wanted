@@ -1,1 +1,2 @@
-This contains the Main 2 files, main and game. Main involves the creation of the initial GUI, and game contains the code that runs an instance of the game itself. The code was designed to run on Mac
+This contains the Main 2 files, main and game. Main involves the creation of the initial GUI, and game contains the code that runs an instance of the game itself. The code was designed to run on Mac, so images may have to be altered slightly to work well on other OS.
+The main images and sounds for the game can be found at https://mega.nz/folder/cbEjGbAC#9k-vs22jlxrvV49MARcKAQ. It is worth noting that the file size is so large due to a song being played during the game that is 10 minutes long to ensure it does not end prematurely. 
